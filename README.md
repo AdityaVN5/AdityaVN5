@@ -45,11 +45,6 @@
 ### Legacy & Experiments
 Still Pending...
 
-
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/AdityaVN5)
-
 ## What I'm Doing
 
 Still figuring out...
