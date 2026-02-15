@@ -1,6 +1,6 @@
 # Hi, I'm Aditya Vardhan 👋
 
-**🧠 AI Research Architect** | **💻 FDE** | **🌐 PolyDev** | **🧪 Cooking Something**
+**🧠 AI Research Architect** | **💻 Agentic Engineer** | **🌐 PolyDev** | **🧪 Cooking Something**
 
 🌐 **Portfolio:** [adityavn.vercel.app](https://adityavn.vercel.app/)
 
