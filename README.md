@@ -37,14 +37,17 @@
 > Deep in the trenches of Multi-Agent Systems and Computer Vision. Building tools that turn research papers into code and static policies into dynamic insights.
 
 ## Current Projects
-
-- 🎥 **[Backdrop AI](https://github.com/AdityaVN5/Backdrop-AI-SRC)** - AI-powered video background removal tool implementing BiRefNet for precise semantic segmentation
+- 🎥 **[Backdrop AI](https://github.com/AdityaVN5/Backdrop-AI)** - AI-powered video background removal tool implementing BiRefNet for precise semantic segmentation
 - 📰 **[HN Chronicle](https://github.com/AdityaVN5/HN-Chronicle)** - Read Hacker News in a different way
 - ⬛ **[Review Analyst](https://github.com/AdityaVN5/app-review-analyzer)** - Agentic workflow that turns Google Play feedback into product insights
 - 🏛️ **[Polisysim](https://github.com/AdityaVN5/PolicySim-v1)** - Policy risk assessment system built for Agentathon 2025.
 - 🎬 **[Lynch Vision](https://github.com/AdityaVN5/LynchVision)** - AI-powered cinematic storyboard generator from single reference images.
 - 🛡️ **[NewsGuard AI](https://github.com/AdityaVN5/NewsGuard-AI)** - AI-powered news verification and credibility analysis
 - 🧮 **[Math Routing Agent](https://github.com/AdityaVN5/Math_Routing_Agent)** - Intelligent agent for mathematical problem routing and solving
+
+## Minimal Projects
+
+🟨 **[TABA (Task board application)](https://github.com/AdityaVN5/taba)** - Premium, highly interactive Kanban-style task management application built with a focus on Frontend Engineering excellence
 
 ### Legacy & Experiments
 Still Pending...
