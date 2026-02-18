@@ -50,7 +50,7 @@
 🟨 **[TABA (Task board application)](https://github.com/AdityaVN5/taba)** - Premium, highly interactive Kanban-style task management application built with a focus on Frontend Engineering excellence
 
 ### Legacy & Experiments
-Still Pending...
+- Clp - coming soon
 
 ## What I'm Doing
 
