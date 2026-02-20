@@ -52,6 +52,55 @@
 ## Legacy & Experiments
 ⬛ **[CLP](https://github.com/AdityaVN5/clp-src)** - a lightweight, modern upgrade to the native Windows clipboard manager.
 
+## 🧠📡 The Signals I Tune Into
+
+> Every week, these transmissions shape how I think, build, and imagine the future.
+Not subscriptions.
+Coordinates in my knowledge galaxy.
+
+> **_These aren’t newsletters. These are weekly firmware updates for my brain._**
+
+
+### Chapter AI & Tech
+
+🔥 [The Rundown AI](https://daily.therundown.ai/) - "If AI had a stock ticker, this would be the live feed."
+
+🚨 [AI Fire](https://aifire.beehiiv.com/) - "AI news delivered like it's breaking the internet every morning."
+
+🧠 [The Batch (DeepLearning.AI)](https://www.deeplearning.ai/the-batch/) - "Andrew Ng's calm, surgical breakdown of where AI is actually headed."
+
+🌊 [AINews (Latent.Space / swyx)](https://www.latent.space/) - "The entire AI internet compressed into one dangerously dense signal."
+
+🧬 [Latent.Space](https://www.latent.space/) - "Where AI engineers think out loud about the future infrastructure of intelligence."
+
+⚡ [Rohan's Bytes](https://www.substack.com/@rohanpaul_) - "Rapid-fire AI updates with just enough insight to stay ahead of the curve."
+
+📡 [AlphaSignal](https://www.alphasignal.ai/) - "A developer's radar for the freshest repos, papers, and model drops."
+
+🌍 [Future Blueprint](https://futureblueprint.beehiiv.com/) - "AI decoded for builders, creatives, and business minds alike."
+
+🧩 [Sajjaad's Substack](https://sajjaad.substack.com/) - "Unfiltered engineering truths from someone who's actually in the trenches."
+
+🚀 [Henry's Best Hits](https://henrythe9th.substack.com/) - "Startup war stories and AI lab gossip for future founders."
+
+### Chapter Engineering
+
+🧱 [ByteByteGo](https://bytebytego.substack.com/) - "System design explained so clearly it feels like you're reading the source code of the internet."
+
+🧩 [System Design One (Neo Kim)](https://systemdesignone.substack.com/) - "Interview-grade system design distilled into sharp, surgical mental models."
+
+🛠️ [Refactoring (Luca Rossi)](https://refactoring.substack.com/) - "Where modern software engineering meets AI tooling and real-world delivery chaos."
+
+🧭 [Engineering Leadership (Gregor Ojstersek)](https://gregorojstersek.substack.com/) - "The playbook for building teams that ship, scale, and survive AI disruption."
+
+### Chapter AI/ML Research and Education
+
+✍️ [AI by Hand (Prof. Tom Yeh)](https://aibyhand.substack.com/) - "Complex ML concepts hand-drawn until your brain finally 'sees' the math."
+
+🔬 [The Palindrome (Tivadar)](https://thepalindrome.substack.com/) - "Research ideas decoded before they become industry trends."
+
+🧪 [alphaXiv](https://www.alphaxiv.org/) - "The arXiv firehose filtered to only what actually matters."
+
 ## What I'm Doing
 
 Still figuring out...
