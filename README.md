@@ -49,8 +49,8 @@
 
 🟨 **[TABA (Task board application)](https://github.com/AdityaVN5/taba)** - Premium, highly interactive Kanban-style task management application built with a focus on Frontend Engineering excellence
 
-### Legacy & Experiments
-- Clp - coming soon
+## Legacy & Experiments
+⬛ **[CLP](https://github.com/AdityaVN5/clp-src)** - a lightweight, modern upgrade to the native Windows clipboard manager.
 
 ## What I'm Doing
 
